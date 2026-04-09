@@ -38,22 +38,19 @@ import kagglehub
 # Download latest version
 path = kagglehub.dataset_download("psparks/instacart-market-basket-analysis")
 
-print("Path to dataset files:", path)**```
-
+print("Path to dataset files:", path)
 
 ## ⚙️ Project Implementation
-
-- Performed data cleaning, preprocessing, and dataset merging using Python (Pandas)  
-- Built a structured dataset for analysis and reporting  
-- Applied **Market Basket Analysis (Apriori Algorithm)** to identify product associations  
-- Generated **association rules (support, confidence, lift)** for cross-selling insights  
-- Implemented **RFM Analysis & K-Means Clustering** for customer segmentation  
-- Designed SQL table and performed advanced queries for business insights  
-- Identified **top-selling products and frequent product combinations**  
-- Analyzed **peak shopping hours and day-wise sales trends**  
-- Calculated **reorder rate and customer purchase behavior**  
-- Used **CTEs and window functions (NTILE)** for dynamic customer segmentation  
-
+Performed data cleaning, preprocessing, and dataset merging using Python (Pandas)
+Built a structured dataset for analysis and reporting
+Applied Market Basket Analysis (Apriori Algorithm)
+Generated association rules (support, confidence, lift)
+Implemented RFM Analysis & K-Means Clustering
+Designed SQL table and performed advanced queries
+Identified top-selling products and product combinations
+Analyzed peak shopping hours and sales trends
+Calculated reorder rate and customer behavior
+Used CTEs and window functions (NTILE)
 ## 📌 Business Problem
 
 The goal of this project is to transform raw transactional data from Instacart into actionable insights to drive Revenue and Retention.
