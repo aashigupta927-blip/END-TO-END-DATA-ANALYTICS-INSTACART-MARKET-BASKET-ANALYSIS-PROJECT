@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Data analysis project overview banner" src="https://github.com/user-attachments/assets/f69f10ef-8530-4362-95ee-c304866960c9" />
+<img width="1444" height="332" alt="Data analysis project overview banner" src="https://github.com/user-attachments/assets/79df15aa-e79b-4a95-9f9a-aa6845bd9563" />
 
 ## 📊 Project Overview & Purpose
 
