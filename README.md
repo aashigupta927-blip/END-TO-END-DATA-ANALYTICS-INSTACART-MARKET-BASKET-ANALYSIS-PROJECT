@@ -40,6 +40,7 @@ path = kagglehub.dataset_download("psparks/instacart-market-basket-analysis")
 
 print("Path to dataset files:", path)
 
+
 ## ⚙️ Project Implementation
 
 - Performed data cleaning, preprocessing, and dataset merging using Python (Pandas)  
