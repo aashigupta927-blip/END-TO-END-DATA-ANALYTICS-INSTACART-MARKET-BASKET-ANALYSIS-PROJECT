@@ -1,2 +1,8 @@
 # END-TO-END-DATA-ANALYTICS-INSTACART-MARKET-BASKET-ANALYSIS-PROJECT
-Diving deep into customer behavior! I used SQL (CTEs, Window Functions) for RFM Segmentation, Peak Hour Analysis, and Reorder Rates. This project evolves with Python for Association Rules (Apriori), Excel for cleaning, and Power BI/Tableau for a killer dashboard. Turning raw data into retail strategy! 📊💡
+📌 Business Problem
+The goal of this project is to transform raw transactional data from Instacart into actionable insights to drive Revenue and Retention.
+The core focus is on:
+Market Basket Analysis: Identifying product associations to boost Cross-Selling.
+Customer Segmentation: Using RFM Analysis to target 'High-Value' vs 'At-Risk' users.
+Operational Efficiency: Optimizing supply chain by pinpointing Peak Shopping Hours.
+Retention Strategy: Analyzing Reorder Rates to improve the Customer Lifetime Value (CLV).
