@@ -1,4 +1,25 @@
-<img width="1536" height="1024" alt="Instacart market basket analysis project" src="https://github.com/user-attachments/assets/31fafe6a-0a8c-4ab7-baa7-c7bf4b29f15f" />
+<img width="1200" height="800" alt="instacart_banner_resized" src="https://github.com/user-attachments/assets/97619952-9e1a-4034-8421-cb4e39aee662" />
+## 🛠️ Tech Stack & Tools
+
+- **Programming Language:** Python  
+- **Libraries:** Pandas, NumPy, MLxtend, Scikit-learn  
+
+- **Database & Query Language:** SQL  
+
+- **Data Visualization & BI Tools:**  
+  - Power BI  
+  - Power Query  
+  - Microsoft Excel  
+
+- **Techniques Used:**  
+  - Data Cleaning & Preprocessing  
+  - Exploratory Data Analysis (EDA)  
+  - Market Basket Analysis (Apriori Algorithm)  
+  - Customer Segmentation (RFM Analysis & K-Means Clustering)  
+
+- **Tools & Platforms:**  
+  - Jupyter Notebook  
+  - GitHub  
 ## 📊 Project Overview & Purpose
 This project focuses on analyzing the Instacart dataset to uncover customer purchasing behavior, product relationships, and actionable business insights using SQL and Python.
 It involves end-to-end data analytics, including data cleaning, transformation, exploratory data analysis, Market Basket Analysis, and customer segmentation techniques.
