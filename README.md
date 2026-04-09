@@ -26,24 +26,32 @@ This project demonstrates the practical application of data analytics skills to 
 
 - **Tools & Platforms:**  
   - Jupyter Notebook  
-  - GitHub  
+  - GitHub
 
 ## 📂 Data Source
 
-The dataset used in this project is sourced from Kaggle:  
-[import kagglehub
+The dataset used in this project is sourced from Kaggle and programmatically downloaded using the KaggleHub API:
+
+```python
+import kagglehub
 
 # Download latest version
 path = kagglehub.dataset_download("psparks/instacart-market-basket-analysis")
 
-print("Path to dataset files:", path)]
+print("Path to dataset files:", path)
 
-It includes detailed information about:
-- Customer orders  
-- Product details  
-- Order history and purchasing patterns  
+## ⚙️ Project Implementation
 
-This dataset is widely used for analyzing customer behavior and building recommendation systems.
+- Performed data cleaning, preprocessing, and dataset merging using Python (Pandas)  
+- Built a structured dataset for analysis and reporting  
+- Applied **Market Basket Analysis (Apriori Algorithm)** to identify product associations  
+- Generated **association rules (support, confidence, lift)** for cross-selling insights  
+- Implemented **RFM Analysis & K-Means Clustering** for customer segmentation  
+- Designed SQL table and performed advanced queries for business insights  
+- Identified **top-selling products and frequent product combinations**  
+- Analyzed **peak shopping hours and day-wise sales trends**  
+- Calculated **reorder rate and customer purchase behavior**  
+- Used **CTEs and window functions (NTILE)** for dynamic customer segmentation  
 
 ## 📌 Business Problem
 
@@ -54,7 +62,8 @@ The core focus is on:
 - Market Basket Analysis: Identifying product associations to boost Cross-Selling.  
 - Customer Segmentation: Using RFM Analysis to target 'High-Value' vs 'At-Risk' users.  
 - Operational Efficiency: Optimizing supply chain by pinpointing Peak Shopping Hours.  
-- Retention Strategy: Analyzing Reorder Rates to improve the Customer Lifetime Value (CLV).  
+- Retention Strategy: Analyzing Reorder Rates to improve the Customer Lifetime Value (CLV).
+
 
 
 
