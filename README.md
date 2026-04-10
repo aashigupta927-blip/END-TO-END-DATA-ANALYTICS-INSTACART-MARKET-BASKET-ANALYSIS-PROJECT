@@ -52,6 +52,25 @@ The core focus is on:
 - Operational Efficiency: Optimizing supply chain by pinpointing Peak Shopping Hours.  
 - Retention Strategy: Analyzing Reorder Rates to improve the Customer Lifetime Value (CLV).
 
+## 📊 Key Insights
 
+- Fresh produce categories such as **fruits and vegetables**, especially *bananas*, emerged as the top-selling products, indicating strong daily demand.  
+
+- **Product association analysis** revealed that combinations like *Bananas & Avocado*, *Strawberries & Bananas*, and *Bananas & Spinach* are frequently purchased together, highlighting cross-selling opportunities.  
+
+- The **average basket size** is approximately 3 items per order, suggesting smaller but frequent purchases.  
+
+- **Morning and Afternoon** were identified as peak shopping time slots, with the highest order volume observed between **10 AM to 3 PM**, peaking at **2 PM**.  
+  → This provides an opportunity to optimize delivery operations and run targeted promotions during peak hours.  
+
+- **Weekends and Mondays** recorded the highest sales, indicating increased customer activity during these periods.  
+
+- Products like **Banana, Bag of Organic Bananas, and Strawberries** showed the highest reorder rates, reflecting strong customer preference and loyalty.  
+
+- A **percentile-based RFM segmentation approach** was implemented instead of static thresholds to ensure balanced and data-driven customer classification.  
+
+- Customer segmentation analysis revealed that a **majority of users belong to the low-value segment (12,210 customers)**, followed by **medium-value customers (1,047)**, while only a **very small segment represents high-value customers (9 customers)**.  
+
+- This indicates that most customers have low purchase frequency, highlighting a strong opportunity to **convert low-value users into repeat and high-value customers through targeted engagement strategies**.  
 
 
