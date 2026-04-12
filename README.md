@@ -10,6 +10,19 @@ The primary objective of this project is to help businesses make data-driven dec
 
 This project demonstrates the practical application of data analytics skills to solve real-world business problems and generate impactful insights.
 
+## 🚀 Project Structure
+
+This project is divided into two main analytical dashboards to provide a comprehensive understanding of both product performance and customer behavior:
+
+## 📊 Part 1: Product Performance & Market Basket Analysis
+Focuses on product-level insights
+Identifies top-selling products
+Analyzes frequently bought product combinations
+## 👥 Part 2: Customer Behavior & Segmentation Analysis (Coming Soon)
+Focuses on customer purchasing patterns
+Includes RFM segmentation
+Identifies high-value and low-value customers
+
 ## 🛠️ Tech Stack & Tools
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, MLxtend, Scikit-learn  
@@ -29,17 +42,26 @@ This project demonstrates the practical application of data analytics skills to 
   - GitHub
 
 ## ⚙️ Project Implementation
-
-- Performed data cleaning, preprocessing, and dataset merging using Python (Pandas)
-- Built a structured dataset for analysis and reporting
-- Applied Market Basket Analysis (Apriori Algorithm)
-- Generated association rules (support, confidence, lift)
-- Implemented RFM Analysis & K-Means Clustering
-- Designed SQL table and performed advanced queries
-- Identified top-selling products and product combinations
-- Analyzed peak shopping hours and sales trends
-- Calculated reorder rate and customer behavior
-- Used CTEs and window functions (NTILE)
+Performed data cleaning, preprocessing, and dataset merging using Python (Pandas)
+Built a structured dataset to support efficient analysis and reporting
+## 🔹 Data Analysis & Modeling
+Applied Market Basket Analysis using the Apriori Algorithm
+Generated association rules using key metrics: support, confidence, and lift
+Implemented RFM Analysis and customer segmentation using K-Means Clustering
+## 🔹 SQL-Based Analysis
+Designed and created structured SQL tables
+Performed advanced queries to extract insights
+Utilized CTEs and window functions (NTILE) for segmentation and ranking
+## 🔹 Business Insights Generation
+Identified top-selling products and frequent product combinations
+Analyzed peak shopping hours and sales trends
+Calculated reorder rates and evaluated customer purchasing behavior
+## 🔹 Dashboard Development
+Designed interactive dashboards in Power BI
+Visualized product performance and market basket insights
+Structured the project into two dashboards:
+Product Performance & Market Basket Analysis
+Customer Behavior & Segmentation Analysis (upcoming)
 
 ## 📌 Business Problem
 
@@ -73,4 +95,18 @@ The core focus is on:
 
 - This indicates that most customers have low purchase frequency, highlighting a strong opportunity to **convert low-value users into repeat and high-value customers through targeted engagement strategies**.  
 
+## 📊 Dashboard 1: Product Performance & Market Basket Analysis
+## 🎯 Goal of the Dashboard
+
+The goal of this dashboard is to analyze product performance and uncover purchasing patterns using transactional data.
+
+It helps in:
+
+Identifying top-selling products
+Understanding order trends
+Analyzing frequently bought together products
+Evaluating category-level performance
+
+## 📸 Dashboard Preview
+<img width="1488" height="828" alt="image" src="https://github.com/user-attachments/assets/492de658-c8d4-4088-b546-6e206b81f3bb" />
 
