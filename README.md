@@ -129,16 +129,27 @@ Analyzing product category performance
 Discovering frequently bought together products for cross-selling
 ## 📊 Key Features
 Top 3 Selling Products (KPI Cards)
+
 Highlights the highest performing products based on order volume
+
 Top 10 Best-Selling Products
+
 Visualizes the most popular products using a bar chart
+
 Total Orders & Total Unique Products (Cards)
+
 Provides an overview of overall sales volume and product diversity
+
 Top Product Aisles by Order Volume
+
 Analyzes which product categories (aisles) generate the highest sales
+
 Top Product Departments by Order Volume
+
 Identifies high-performing departments contributing to revenue
+
 Frequently Bought Together Products (Matrix)
+
 Displays product combinations using Market Basket Analysis
 ## ⚙️ Key Challenge & Solution
 
@@ -153,7 +164,7 @@ Structured the data for better visualization in Power BI
 This enabled identification of strong product relationships and cross-selling opportunities.
 
 ## 📸 Dashboard Preview
-<img width="1488" height="828" alt="image" src="https://github.com/user-attachments/assets/492de658-c8d4-4088-b546-6e206b81f3bb" />
+<img width="1443" height="804" alt="image" src="https://github.com/user-attachments/assets/f52644d5-6459-4b11-8df0-b262292cc620" />
 
 ## 📊 Dashboard 2: Customer Behavior & Segmentation Analysis
 ## 🎯 Goal of the Dashboard
@@ -168,22 +179,35 @@ Analyzing purchase frequency and reorder behavior
 Segmenting customers based on value
 ## 📊 Key Features
 Average Basket Size
+
 Measures the average number of items per order
+
 Total Reorders
+
 Highlights repeat purchase behavior and customer loyalty
+
 Weekday Analysis (Interactive Slicer)
+
 Enables day-wise dynamic filtering
+
 Top 20 Customers by Total Orders
+
 Identifies high-frequency and valuable customers
+
 Peak Shopping Hours
+
 Shows when customers are most active
+
 Orders by Time of Day
+
 Categorizes orders into:
 Morning
 Afternoon
 Evening
 Night
+
 Customer Segmentation
+
 Customers are classified into:
 High Value
 Medium Value
