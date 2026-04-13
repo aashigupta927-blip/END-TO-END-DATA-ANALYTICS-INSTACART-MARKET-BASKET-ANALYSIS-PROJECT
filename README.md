@@ -81,6 +81,7 @@ Visualized product performance and market basket insights
 Structured the project into two dashboards:
 
 Product Performance & Market Basket Analysis🛒
+
 Instacart Customer Behavior Analysis🔍
 
 ## 📌 Business Problem
