@@ -124,10 +124,81 @@ The goal of this dashboard is to analyze product performance and uncover purchas
 It helps in:
 
 Identifying top-selling products
-Understanding order trends
-Analyzing frequently bought together products
-Evaluating category-level performance
+Understanding overall order trends
+Analyzing product category performance
+Discovering frequently bought together products for cross-selling
+## 📊 Key Features
+Top 3 Selling Products (KPI Cards)
+Highlights the highest performing products based on order volume
+Top 10 Best-Selling Products
+Visualizes the most popular products using a bar chart
+Total Orders & Total Unique Products (Cards)
+Provides an overview of overall sales volume and product diversity
+Top Product Aisles by Order Volume
+Analyzes which product categories (aisles) generate the highest sales
+Top Product Departments by Order Volume
+Identifies high-performing departments contributing to revenue
+Frequently Bought Together Products (Matrix)
+Displays product combinations using Market Basket Analysis
+## ⚙️ Key Challenge & Solution
+
+A key challenge was extracting meaningful product associations from large transactional data.
+
+## ✅ Solution Applied:
+
+Used Apriori Algorithm for Market Basket Analysis
+Generated association rules using support, confidence, and lift
+Structured the data for better visualization in Power BI
+
+This enabled identification of strong product relationships and cross-selling opportunities.
 
 ## 📸 Dashboard Preview
 <img width="1488" height="828" alt="image" src="https://github.com/user-attachments/assets/492de658-c8d4-4088-b546-6e206b81f3bb" />
 
+## 📊 Dashboard 2: Customer Behavior & Segmentation Analysis
+## 🎯 Goal of the Dashboard
+
+The goal of this dashboard is to analyze customer purchasing behavior and identify different customer segments to support data-driven business decisions.
+
+It helps in:
+
+Understanding customer ordering patterns
+Identifying peak shopping hours
+Analyzing purchase frequency and reorder behavior
+Segmenting customers based on value
+## 📊 Key Features
+Average Basket Size
+Measures the average number of items per order
+Total Reorders
+Highlights repeat purchase behavior and customer loyalty
+Weekday Analysis (Interactive Slicer)
+Enables day-wise dynamic filtering
+Top 20 Customers by Total Orders
+Identifies high-frequency and valuable customers
+Peak Shopping Hours
+Shows when customers are most active
+Orders by Time of Day
+Categorizes orders into:
+Morning
+Afternoon
+Evening
+Night
+Customer Segmentation
+Customers are classified into:
+High Value
+Medium Value
+Low Value
+## ⚙️ Key Challenge & Solution
+
+One of the major challenges was handling weekday and time-based filtering issues in Power BI.
+
+## ✅ Solution Applied:
+
+Improved data modeling
+Fixed relationships between tables
+Ensured proper filter interactions
+
+This helped in making the dashboard fully interactive and accurate.
+
+📸 Dashboard Preview
+<img width="1431" height="800" alt="Screenshot 2026-04-13 201453" src="https://github.com/user-attachments/assets/0d87e17a-ede5-4dae-ac87-63f8719f3e22" />
