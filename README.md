@@ -86,8 +86,8 @@ Analyze product performance and identify purchasing patterns
 - Frequently Bought Together Products  
 
 📸 Dashboard Preview:  
-(<img width="1443" height="804" alt="Screenshot 2026-04-13 203639" src="https://github.com/user-attachments/assets/5a36b00d-ced7-4b88-9fb1-2c0b572cad8e" />
-)
+<img width="1443" height="804" alt="Screenshot 2026-04-13 203639" src="https://github.com/user-attachments/assets/5a36b00d-ced7-4b88-9fb1-2c0b572cad8e" />
+
 
 ---
 
@@ -102,8 +102,8 @@ Understand customer purchasing behavior and segment users
 - RFM-Based Customer Segmentation  
 
 📸 Dashboard Preview:  
-(<img width="1431" height="800" alt="Screenshot 2026-04-13 201453" src="https://github.com/user-attachments/assets/7394d58e-d802-48e9-a9c9-41663a9621f2" />
-)
+<img width="1431" height="800" alt="Screenshot 2026-04-13 201453" src="https://github.com/user-attachments/assets/7394d58e-d802-48e9-a9c9-41663a9621f2" />
+
 
 ---
 
